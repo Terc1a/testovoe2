@@ -1,0 +1,33 @@
+{
+"attachments": [
+],
+"audio": null,
+"channel_id": 73625,
+"client": {
+"assigned_name": "Саппортова Татьяна Андреевна",
+"client_phone": "7000000000",
+"external_id": null,
+"id": 58589686,
+"name": "7000000000",
+"phone": "7000000000"
+},
+"client_id": 58589686,
+"coordinates": null,
+"dialog_id": 67419966,
+"event_time": "2023-02-02T07:31:36.995558Z",
+"extra_data": {
+},
+"hook_type": "inbox",
+"insta_comment": false,
+"is_new": false,
+"is_new_client": false,
+"is_new_request": false,
+"message_id": 2097151524,
+"operator_id": 277109,
+"pdf": null,
+"photo": null,
+"request_id": 252969174,
+"text": "Добрый день!",
+"transport": "wa_dialog",
+"type": "from_client"
+}
